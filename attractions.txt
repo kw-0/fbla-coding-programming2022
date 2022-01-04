@@ -1,0 +1,407 @@
+structure
+NAME
+INFO
+TYPE
+1-2 PHOTOS
+CITY
+AGE RANGE
+RATING
+SIZE
+museums
+Museum of Science and Industry
+This is a museum of science that excites children and adults alike. Experience what it's like to pedal a bicycle on a 1-inch cable suspended 30 feet above the ground or lie on a bed-of-nails in the Kids In Charge exhibit! Be sure to also check out MOSI’s two newest permanent exhibits: Imagination Playground and Mission: Moonbase. Imagination Playground enables kids to engineer everything from robots to cities using cubes, bricks, cogs, curves and cylinders. Imagination Playground allows kids to play in a way that encourages creativity and collaboration, while continually exploring new directions and initiatives that promote the benefits of learning, social development, movement and, above all, fun. This breakthrough play space concept enables children to create open-ended designs in a safe environment led by one of MOSI's education staff.
+Science
+attractions_photos/museums/MOSI.jpeg attractions_photos/museums/MOSI2.jpeg
+Tampa
+Children
+100/100
+Large
+American Victory Ship
+Here, visitors can come aboard a fully-functioning 1940s era steamship.  They experience an unforgettable voyage of discovery and relive history by visiting cavernous three level cargo holds, radio and gyro rooms, hospital, galley, weaponry, steering stations, flying bridge, signaling equipment, wheelhouse, mess halls, engine room, crew cabins, lifeboats and cargo equipment, then gaze upon photographs, uniforms, medals, documents and naval equipment.
+History
+attractions_photos/museums/american_vicory.jpeg attractions_photos/museums/american_victory2.jpeg
+Tampa
+Everyone
+85/100
+Medium
+Henry B. Plant Mueseum
+Since 1933, the Tampa Bay Hotel has been home to the Henry B Plant Museum. The building, renamed Plant Hall, is a National Historic Landmark. The Henry B. Plant Museum holds the distinction of accreditation by the American Alliance of Museums. Its mission is to interpret the Tampa Bay Hotel and the experiences of the diverse individuals who contributed to its success. The Museum ignites thought and transports visitors to another era through exhibits and innovative programs, so that they may be educated and inspired by the lifestyles, times and experiences of Florida’s early tourist industry.
+History
+attractions_photos/museums/hplant.jpeg attractions_photos/museums/hplant2.jpeg
+Tampa
+Teens and Adults
+90/100
+Large
+Glazer Children's Museum
+This museum is a fun day trip for children. The mission of this museum is to create a learning laboratory where children play, discover, and connect with the world around them to develop as lifelong learners. At Glazer Children’s Museum, families of all backgrounds and abilities come together in an interactive learning environment that encourages children to play with purpose.
+Science
+attractions_photos/museums/glazer.jpeg attractions_photos/museums/glazer2.jpeg
+Tampa
+Children
+85/100
+Medium
+Orlando Science Center
+The Orlando Science center is here to inspire science learning for everyone. They open the door to what is possible and give us courage to find the answers to tomorrow’s big questions. Inspiration is like oxygen and Orlando Science Center is proud to have been a source of inspiration since 1955.
+Science
+attractions_photos/museums/orlandosc.jpeg attractions_photos/museums/orlandosc2.jpeg
+Orlando
+Everyone
+100/100
+Large
+Tampa Bay History Center
+This center keeps record of Tampa bay History. This center was founded in 1989 by the Hillsborough County Board of County Commissioners. This History Center opened its new, 60,000 square-foot facility on Tampa’s Riverwalk in 2009. Accredited in 2015 by the American Alliance of Museums and a Smithsonian Affiliate museum since 2012, the History Center includes three floors of permanent and temporary exhibition galleries focusing on 12,000 years of Florida’s history.
+History
+attractions_photos/museums/bayhistory.png attractions_photos/museums/bayhistory2.png
+Tampa
+Everyone
+78/100
+Large
+Crocker's Church
+The history of the Crocker Memorial Church begins with the memorable Peter Crocker. A man born in Wheeler, New York, who became a lighthouse keeper in Key West, Florida, and who, with his wife Sophia, came to the Sarasota area of Manatee County in 1873 where he purchased 20 acres southwest of Bay and Bee Ridge He built a church that was important to his community. He also helped to plan the roads surrounding the Bee Ridge area. This is his memorial.
+Memorial
+attractions_photos/museums/crocker2.jpeg attractions_photos/museums/crocker.jpeg
+Sarasota
+Teens and Adults
+30/100
+Small
+Bishop Museum of Science and Nature
+The Bishop Museum is the largest natural history museum on Florida’s Gulf Coast. The Bishop interprets the region from the Pleistocene to the present. Highlights include fossil evidence of Florida’s earliest animal inhabitants, the Montague Tallant collection of prehistoric and early post-contact archeological artifacts, and the Environmental Hall focusing on Florida’s ecology and biodiversity in the Pine Uplands and Riverine Galleries.
+Science
+attractions_photos/museums/bishop.jpeg attractions_photos/museums/bishop2.jpeg
+Sarasota
+Everyone
+100/100
+Medium
+Studio 41 Photography Gallery and Museum
+Studio 41 is a quant and wonderful little art gallery. Fittingly housed in Sarasota’s first historically designated motel, the Twin Motel, its an extension of the eccentric and imaginitive creator himself. Inside is a collection of prints and displays that are enough to keep a visitor occupied for hours: One-act photographic stories, depicting wrongful convictions and train heists; a sprawling collection of antique cameras; photos and collectibles from around the world — even local memorabilia, including a seat from Sarasota’s original baseball stadium.
+History
+attractions_photos/museums/studio412.jpeg attractions_photos/museums/studio41.jpeg
+Sarasota
+Teens and Adults
+88/100
+Small
+Harding Circle Historic District
+In 1923 circus magnate John N Ringling (1866-1936) purchased St. Armands Key, an uninhabited, 150-acre, oval-shaped island. He planned a community of fine residences with a central circle park surrounded by shops. The park was named in memory of his friend President Warren Harding (1865-1923).
+Memorial
+attractions_photos/museums/harding.jpeg attractions_photos/museums/harding2.jpeg
+Sarasota
+Everyone
+63/100
+Large
+restaurants
+Made
+This restaurant sells great sandwiches. Come here for homemade chicken breast, bacon, and collard greens. This restaurant also has beautiful views of the sea.
+Southern
+attractions_photos/restaurants/made2.jpeg attractions_photos/restaurants/made.jpeg
+Sarasota
+Everyone
+65/100
+Medium
+Shore
+This restaurant is known for its beautiful views and great food. This restaurant has something for everybody. For the die-hard meat eater in your life, there are the St. Louis-style barbecued ribs ($27) coated in a Mongolian glaze and arranged on the plate like a Jenga tower. There’s also a grouper sandwich ($25) that is the ideal of that Florida classic, a hugely indulgent lobster, shrimp and crab Cobb salad ($25), a great burger ($19) and excellent cocktails. 
+General
+attractions_photos/restaurants/SHORE_LBK_451_oufjwf.jpeg
+Sarasota
+Everyone
+75/100
+Large
+Tikka Indian Cuisine
+This Indian restaurant has everything you want in Indian food. Try the excellent butter chicken ($15). The meat, simmered in tomato and plenty of spices, is tender and delicate, and the abundance of rich, fragrant sauce gives you something in which to dip your garlic naan ($3). If you’re feeling extra spicy, go for the chili naan ($4), a flaky, puffy bread blasted with hot green chilies. The lamb saag ($17), made with big hunks of lamb and plenty of creamy spinach, is also excellent. 
+Indian
+attractions_photos/restaurants/tikka.jpeg attractions_photos/restaurants/tikka2.jpeg
+Sarasota
+Everyone
+87/100
+Medium-Small
+Kres Chophouse
+This delicous steakhouse is set a small historic building. It has beautful ambiance, happy hours, and makes a great place to eat out at night with friends.
+Steak
+attractions_photos/restaurants/kres.jpeg
+Orlando
+Adults
+90/100
+Small
+Firebirds Grill
+This steakhouse cooks over a woodfired Grill. They serve American hand cut steaks, fresh seafood, and more from their scratch kitchen. While this restaurant is a chain and doesn't have much unique flair, it more than makes up for it with its consistency. You should try it.
+Steak
+attractions_photos/restaurants/firebirds2.jpeg attractions_photos/restaurants/firebirds.jpeg
+Orlando
+Everyone
+80/100
+Large
+Rasoi Indian Cuisine
+RASOI is a traditional Indian name meaning "Kitchen", the spirit of Indian cooking. The kitchen is the heart of every home, for the most part. Here you can create great memories through the finest spices and ingredients with in every aspect of food, service, and their great atmosphere. The unique culinary essence of Rasoi is its variety of dishes from all types Indian cuisine. 
+Indian
+attractions_photos/restaurants/rasoi2.jpeg attractions_photos/restaurants/rasoi.jpeg
+Tampa
+Everyone
+100/100
+Medium
+Yeoman's Cask and Lion
+Yeoman’s Road Pub opened in the late ‘80s on Davis Island in Tampa. It started out as a small, lived-in neighborhood pub. The Yeoman’s Cask & Lion story is one of growth and a celebration of British culture and is now one of the best sports bars in Tampa. While the upgrade and update certainly changed the vibe of their English pub in Tampa, it never changed the heart and history behind it. Today theey are ultra-modern, extraordinarily spacious, and full of eclectic pop art and memorabilia.
+General
+attractions_photos/restaurants/yeoman.jpeg attractions_photos/restaurants/yeoman2.jpeg
+Tampa
+Teens and Adults
+65/100
+Small
+Joe's New York Diner
+This pretty little diner has great all day eats. It has a nice local flair. It serves everything from great classic reuben sandwiches, to chicken and waffles, to warm apple pie. Come check it out.
+General
+attractions_photos/restaurants/joes.jpeg attractions_photos/restaurants/joes2.jpeg
+Tampa
+Everyone
+55/100
+Small
+Boomerang Bistro and BBQ
+This BBQ joint sells all the barbecue you could want. From slow smoked brisket to pork and chicken, this restaurant has you covered. 
+Southern
+attractions_photos/restaurants/boomerang.jpeg attractions_photos/restaurants/boomerang1.jpeg
+Orlando
+Everyone
+80/100
+Small
+amusement
+Sea World
+The expansive park shows off all sorts of creatures from the depths of the sea. Some animals here include dolphins, whales, and adorable penguins. Adults will love the high-speed coasters like Kraken and Manta, while kids will enjoy seeing their favorite Sesame Street friends at Sesame Street Land. Be sure to take a ride on Sky Tower so you can see the entire park from a bird's eye view along with panoramic views of beautiful Orlando.
+Themed
+attractions_photos/amusement/Sea.jpeg attractions_photos/amusement/Sea2.jpeg
+Orlando
+Everyone
+88/100
+Large
+Adventure Island
+The Adventure Island water park, is 30 acres of tropical paradise. This park features water attractions, a championship sand volleyball court and Splash Attack, a tree house maze overflowing with fun. The Tampa theme park features many water adventures that send riders on a splashing journey filled with drops, curves, waterfalls and more.
+Rides and Rollercoasters
+attractions_photos/amusement/adventureisl.jpeg attractions_photos/amusement/adventureisl2.jpeg
+Tampa
+Everyone
+90/100
+Large
+Universal Studios
+Universal Studios draws in the bumper crowds with its long lineup of rides and attractions. Get up close with those naughty yellow minions from Despicable Me, fly across Springfield with the Simpsons, ward-off alien attacks in the MEN IN BLACK simulator or get lost in a world of magic at Harry Potter’s Escape from Gringotts ride. The action here is more focused on delivering an immersive movie experience, with state-of-the-art technology used throughout the range of simulators.
+Themed
+attractions_photos/amusement/universal2.jpeg attractions_photos/amusement/universal.jpeg
+Orlando
+Everyone
+92/100
+Large
+Jumpin Fun
+This inflabale park is lots of fun. With almost 20 attractions & fun areas of play – you are sure to find something fun to do for everyone in the family! Stop by Jumpin Fun and discover all the fun excitement they have to offer!
+Other
+attractions_photos/amusement/inflatapark.jpeg attractions_photos/amusement/inflatapark2.jpeg
+Sarasota
+Everyone
+79/100
+Medium
+Disney's Animal Kingdom
+This massive theme park has lands dedicated to Africa and Asia. These will make you feel like you're traveling through the real world locations. The Kilamanjaro Safaris are where the animals are the most active, in the mornings. If you’ve never heard a lion roar after your morning coffee you’re really missing out.
+Themed
+attractions_photos/amusement/animalking.jpeg attractions_photos/amusement/animalking2.jpeg
+Orlando
+Everyone
+100/100
+Large
+Epcot
+Epcot’s huge spherical design is one of the most instantly recognizable images of Disney World. This science-themed attraction has 2 areas: Future World, demonstrating human endeavor and innovation, along with World Showcase, a permanent world’s fair with 11 nations represented around a giant manmade lake. The fun of Epcot is really found in just strolling around and soaking up the incredibly realistic sights.
+Rides and Rollercoasters
+attractions_photos/amusement/epcot.jpeg attractions_photos/amusement/epcot2.jpeg
+Orlando
+Teens and Adults
+100/100
+Large
+Legoland
+Legoland Florida is a 150-acre theme park based on the Danish-invented construction toys. It features over 50 rides, shows, attractions, shops and restaurants, making it one of the biggest theme parks in Orlando. Legoland Florida also has a separate waterpark, with its own selection of rides and attractions including a wave pool, lazy river and slides.
+Themed
+attractions_photos/amusement/legoland.jpeg attractions_photos/amusement/legoland2.jpeg
+Orlando
+Children
+86/100
+Large
+Livingston's Amusements
+Livingston’s is Sarasota’s most inviting entertainment experience. With over 50,000 square-feet of state-of-the-art fun, Livingston’s is the ultimate place to hang out, play games, eat, drink and socialize.
+Other
+attractions_photos/amusement/livingstons2.jpeg attractions_photos/amusement/livingstons.jpeg
+Sarasota
+Teens and Adults
+69/100
+Medium
+Busch Gardens
+Busch Gardens is the ultimate family adventure offering a wide range of attractions that encourage guests to delve into culture and wildlife from around the world. There is a lot going on at Busch Gardens Tampa Bay. For the Florida roller coaster lover, the choices include SheiKra, the tallest dive coaster in the world and at 200 feet, Florida's tallest roller coaster; Gwazi, the Southeast's largest and fastest double wooden coaster; Montu, one of the tallest and longest inverted roller coasters in the world; and the park's brand new magnet-propelled, "launch" coaster, Cheetah Hunt. This 4,429-foot coaster, inspired by the legendary speed of the Cheetah, climbs high above the African landscape, races down along the ground and through a rocky gorge, all the while using burst of acceleration to propel awestruck riders.
+Rides and Rollercoasters
+attractions_photos/amusement/busch.jpeg attractions_photos/amusement/busch2.jpeg
+Tampa
+Everyone
+100/100
+Large
+Magic Kingdom
+Magic Kingdom is a wonderful tier one amusement park. It contiues to retain its place as the premier amusement park for young children who want to be dazzled by their favorite characters come to life and experience that unmistakable, extraordinary Disney charm. Founded in 1971, it was the first attraction to open at Orlando’s sprawling Walt Disney World. Disney's Magic Kingdom is spilt into 6 different ‘lands’ across an enormous 107-acre site – Adventureland, Fantasyland, Frontierland, Tomorrowland, Main Street, and Liberty Square.
+Themed
+attractions_photos/amusement/mkingdom.jpeg attractions_photos/amusement/mkingdom2.jpeg
+Orlando
+Everyone
+100/100
+Large
+parks
+Zaksee Bird Sanctuary
+Our mission is to be the best Florida Bird Sanctuary for captive exotic birds. In particular, we are a refuge for Hyacinth Macaws, Cockatoos, Green Wings, African Greys, Eclectus, Sun Conures and other exotic birds. Zaksee Parrot Sanctuary is an important step in helping unwanted, unloved and abused parrots. We are also dedicated to parrot education, and to teaching the public that having a parrot is a life long responsibility, not a decision to be taken lightly. 
+Zoos/Aquarium
+attractions_photos/parks/zaksee2.jpeg attractions_photos/parks/zaksee.jpeg
+Tampa
+Everyone
+77/100
+Small
+Mote Marine Aquarium
+The Mote is a active restoration group. About themselves they say: We are scientists, explorers and stewards of the ocean. Focused on research and education, we work to create a better environment for ourselves and our children. The answers are in the ocean. Together, we will find them. We are an independent, nonprofit marine research institution comprising world-class marine scientists committed to the belief that the conservation and sustainable use of our oceans begins with research and education.
+Zoo/Aquariums
+attractions_photos/parks/mote.jpeg attractions_photos/parks/mote2.jpeg
+Sarasota
+Everyone
+89/100
+Large
+Bayfront Park
+This is a beautiful green space to get away from the city. It is built on a small penninusla with trails, restaurants, and miles and miles of open air. Come visit soon.
+Recreation
+attractions_photos/parks/bay.jpeg attractions_photos/parks/bay2.jpeg
+Sarasota
+Teens and Adults
+85/100
+Large
+Lake Eola Park
+Lake Eola Park is a public park located in Downtown Orlando, Florida. Lake Eola is the main feature of the park. Also located in the park is the Walt Disney Amphitheater, which hosts many community events and various performances year round. On the east side of the park is a Chinese pagoda, and a playground. 
+Parks
+attractions_photos/parks/lake_eola2.jpeg attractions_photos/parks/lake_eola.jpeg
+Orlando
+Everyone
+100/100
+Medium
+Payne Park
+This park is home to a Tennis Center, Skate Park, Circus Park, Café, and Amphitheater. Previously, Payne Park was a professional baseball park from 1924 to 1989 in Sarasota, serving as the Spring Training home for the New York Giants, Boston Red Sox, and Chicago White Sox. The stadium closed in 1989 when replaced by Ed Smith Stadium. 
+Parks
+attractions_photos/parks/pain.jpeg attractions_photos/parks/pain2.jpeg
+Sarasota
+Children
+100/100
+Large
+Big Cat Sanctuary
+Big Cat Habitat and Sanctuary is an ever-growing large-animal rescue in Sarasota County. Founded in 1987 by Kay Rosaire, the non-profit sanctuary is a permanent home for dozens of exotic animals, offers placement for animals in need, and works to educate the public about animal care and conservation.
+Zoos/Aquariums
+attractions_photos/parks/cat.jpeg attractions_photos/parks/cat2.jpeg
+Sarasota
+Teens and Adults
+75/100
+Medium
+Tampa Riverwalk
+The Riverwalk serves as a hub for art, leisurely lunches, performances, fitness, and more. The riverwalk is fun bikeable trail along the beautiful river.
+Recreation
+attractions_photos/parks/walk.jpeg attractions_photos/parks/walk2.jpeg
+Tampa
+Teens and Adults
+100/100
+Large
+Water Works Park
+A riverfront park with fun water-based activites. It has open, green space, a dog park, covered and shaded picnic areas, a playground and a splash pad for children.
+Parks
+attractions_photos/parks/water.jpeg attractions_photos/parks/water2.jpeg
+Tampa
+Children
+89/100
+Medium
+Sea Life Orlando
+Sea Life is the world’s largest family of aquariums. From its origins in 1979 in Oban, Scotland, Sea Life now provides immersive marine experiences in nearly 50 locations in 17 countries around the world.  They aim share their passion for the creatures of the oceans and to make their guests fall in love with them.
+Zoos/Aquariums
+attractions_photos/parks/sealife.jpeg attractions_photos/parks/sealife2.jpeg
+Orlando
+Everyone
+78/100
+Medium
+The Florida Aquarium
+The Florida Aquarium, a 501c (3) non-profit organization, that hopes to help conserve aquatic wildlife. It is actively engaged in stewardship of the natural environment as a conservation-based attraction with mission programs that include conservation and research, education and outreach. With a keen focus on delivering world-class animal care to thousands of animals, The Florida Aquarium welcomes visitors to experience a wide variety of aquatic and terrestrial animals with the goal of building awareness and inspiring action for species and habitat conservation.
+Zoos/Aquariums
+attractions_photos/parks/flaqu2.jpeg attractions_photos/parks/flaqu.jpeg
+Tampa
+Everyone
+90/100
+Large
+music
+The Ritz
+The Ritz Ybor is an events venue located in the historic Ybor City, within Tampa. Opening in 1917, the theatre catered to the Afro-Cuban community in the emerging neighborhood. Throughout the years, the venue was served as a cinema, adult movie theater, nightclub and concert venue.
+Live Music
+attractions_photos/music/theritz.jpeg attractions_photos/music/theritz2.jpeg
+Tampa
+Teens and Adults
+93/100
+Small
+The Ringling Gallery
+The institution offers 21 galleries of paintings, Asian, American, and contemporary art. The museum's art collection currently consists of more than 10,000 objects that include a variety of paintings, sculpture, drawings, prints, photographs, and decorative arts from ancient through contemporary periods and from around the world. The most celebrated items in the museum are 16th–20th-century European paintings, including a world-renowned collection of Peter Paul Rubens paintings.
+Art Gallery
+attractions_photos/music/Ringling_Museum_entrance_main_facade_Sarasota_Florida.jpeg attractions_photos/music/J1_museum.jpeg
+Sarasota
+Teens and Adults
+85/100
+Large
+Orlando Museum of Art
+The Orlando Muesum of Art is Orlando's premier art gallery. The purpose of the Orlando Museum of Art is to interpret and present the most compelling art for the public to experience and to positively affect people’s lives with innovative and inspiring education programs that will endure as a cultural legacy in Central Florida. The mission of the Orlando Museum of Art is to inspire creativity, passion and intellectual curiosity by connecting people with art and new ideas.
+Art Museum
+attractions_photos/music/oma.jpeg attractions_photos/music/oma2.jpeg
+Orlando
+Everyone
+100/100
+Large
+The Orpheum
+Located in the Historic Ybor City entertainment district of Tampa, Florida. The Orpheum has been showcasing live music and events for the better part of two decades. Unpretentious and unassuming, this music hall is an excellent spot for some late night music and dancing.
+Live Music
+attractions_photos/music/orf.jpeg attractions_photos/music/orf2.jpeg
+Tampa
+Teens and Adults
+85/100
+Medium
+The Charles Morse Museum
+The Morse Museum houses the world’s most comprehensive collection of works by Louis Comfort Tiffany. This includes the artist and designer’s jewelry, pottery, paintings, art glass, leaded-glass lamps and windows; his chapel interior from the 1893 World’s Columbian Exposition in Chicago; and art and architectural objects from his Long Island country estate, Laurelton Hall.
+Art Gallery
+attractions_photos/music/morse.jpeg attractions_photos/music/morse2.jpeg
+Orlando
+Teens and Adults
+78/100
+Medium
+Ca' d'Zan
+The home of the circus king and his wife. A couple from humble mid-western origins, Ca’ d’Zan stands as a testament to the American Dream of the Roaring Twenties. Inspired by and designed in the Venetian Gothic style of the palazzos that ring the Venice canals, this dazzling palatial mansion perfectly captures the splendor and romance of the Italy the Ringlings so loved. To honor its owner, they named it Ca’ d’Zan, “House of John”, in the dialect of their beloved Venice.
+Art Gallery
+attractions_photos/music/ca.jpeg attractions_photos/music/ca2.jpeg
+Sarasota
+Everyone
+100/100
+Large
+Uncle Lou's Entertainment Hall
+Uncle Lou's opened as a small bar with pool tables and hazy lighting. Then a few small bands started playing there, and since then it has been a bustling spot for music and entertainment. Check it out sometime.
+Live Music
+attractions_photos/music/unc.jpeg attractions_photos/music/unc2.jpeg
+Orlando
+Teens and Adults
+100/100
+Medium
+Art Center Sarasota
+The Sarasota Art Association was established in 1926 as the first arts organization in Sarasota. Founder Marcia Rader, Art Supervisor of the Sarasota School System, was the driving force behind the initial meetings of local art supporters who formed the association. To this day the center spreads the joy and beauty of art to all who enter.
+Art Gallery
+attractions_photos/music/artcent.jpeg attractions_photos/music/artcent2.jpeg
+Sarasota
+Everyone
+90/100
+Medium
+The Social
+The Social is a 200 capacity music venue located in the heart of downtown Orlando. The venue is small, compact, and entiteluy intimate. though the majhority of the shows are acoustic smaller shows, larger bands have graced The Social's stage throughout the years. the amazing thing about the venue, truly, is the ease of finding the sport to see the stage. Visible from any location, and built with a conscious effort to showcase music, the Social is widely considered Orlando's premiere and ideal spot for club shows. 
+Live Music
+attractions_photos/music/socail2.jpeg attractions_photos/music/social.jpeg
+Orlando
+Teens and Adults
+83/100
+Small
+USF Contemporary Art Museum
+The USF Contemporary Art Museum opened its current facility in 1989, next to USF. The museum has presented numerous significant and investigative exhibitions of contemporary art from Florida, the United States and around the world, including Africa, Europe, and Latin America. Changing exhibitions are designed to introduce students, faculty and the community to current cultural trends. 
+Art Gallery
+attractions_photos/music/usfart.jpeg attractions_photos/music/usfart2.jpeg
+Tampa
+Everyone
+100/100
+Large
+END
