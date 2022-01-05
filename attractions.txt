@@ -51,7 +51,7 @@ Large
 Tampa Bay History Center
 This center keeps record of Tampa bay History. This center was founded in 1989 by the Hillsborough County Board of County Commissioners. This History Center opened its new, 60,000 square-foot facility on Tampa’s Riverwalk in 2009. Accredited in 2015 by the American Alliance of Museums and a Smithsonian Affiliate museum since 2012, the History Center includes three floors of permanent and temporary exhibition galleries focusing on 12,000 years of Florida’s history.
 History
-attractions_photos/museums/bayhistory.png attractions_photos/museums/bayhistory2.png
+attractions_photos/museums/bayhistory.png attractions_photos/museums/bayhistory2.jpeg
 Tampa
 Everyone
 78/100
@@ -59,7 +59,7 @@ Large
 Crocker's Church
 The history of the Crocker Memorial Church begins with the memorable Peter Crocker. A man born in Wheeler, New York, who became a lighthouse keeper in Key West, Florida, and who, with his wife Sophia, came to the Sarasota area of Manatee County in 1873 where he purchased 20 acres southwest of Bay and Bee Ridge He built a church that was important to his community. He also helped to plan the roads surrounding the Bee Ridge area. This is his memorial.
 Memorial
-attractions_photos/museums/crocker2.jpeg attractions_photos/museums/crocker.jpeg
+attractions_photos/museums/crocker.jpeg
 Sarasota
 Teens and Adults
 30/100
@@ -89,6 +89,14 @@ Everyone
 63/100
 Large
 restaurants
+Siegfried's Restaurant
+This restaurant has great German food. In February 2018 it's owners moved from Erkelenz, Germany to Sarasota and a dream came true. It took them over one year to find their perfect spot. Finally they found it in the beautiful cottage located on 1869 Fruitville Road. This restaurant's goal is to guarantee a personal service and high quality authentic german food based on family recipes from the Rhineland area. Siegfried‘s is for everyone. If you just want a beer or wine from our exclusive german variety or try our lovely food, everything is possible. They're excited to meet you and hope thier favourite food and drinks will also become yours.
+General
+attractions_photos/restaurants/sig.jpeg attractions_photos/restaurants/sig2.jpeg
+Sarasota
+Teens and Adults
+100/100
+Small
 Made
 This restaurant sells great sandwiches. Come here for homemade chicken breast, bacon, and collard greens. This restaurant also has beautiful views of the sea.
 Southern
@@ -194,6 +202,14 @@ Sarasota
 Everyone
 79/100
 Medium
+Gatorland
+Gatorland is a 110-acre theme park and wildlife preserve in Florida. It is located along South Orange Blossom Trail south of Orlando. It was founded 72 years ago by Owen Godwin on former cattle land in 1949, and is privately owned by his family. Home to many alligators for visitors to view and feed.
+Themed
+attractions_photos/amusement/gatorland.jpeg attractions_photos/amusement/gatorland2.jpeg
+Orlando
+Everyone
+87/100
+Medium
 Disney's Animal Kingdom
 This massive theme park has lands dedicated to Africa and Asia. These will make you feel like you're traveling through the real world locations. The Kilamanjaro Safaris are where the animals are the most active, in the mornings. If you’ve never heard a lion roar after your morning coffee you’re really missing out.
 Themed
@@ -205,7 +221,7 @@ Large
 Epcot
 Epcot’s huge spherical design is one of the most instantly recognizable images of Disney World. This science-themed attraction has 2 areas: Future World, demonstrating human endeavor and innovation, along with World Showcase, a permanent world’s fair with 11 nations represented around a giant manmade lake. The fun of Epcot is really found in just strolling around and soaking up the incredibly realistic sights.
 Rides and Rollercoasters
-attractions_photos/amusement/epcot.jpeg attractions_photos/amusement/epcot2.jpeg
+attractions_photos/amusement/epcot.jpeg
 Orlando
 Teens and Adults
 100/100
@@ -227,7 +243,7 @@ Teens and Adults
 69/100
 Medium
 Busch Gardens
-Busch Gardens is the ultimate family adventure offering a wide range of attractions that encourage guests to delve into culture and wildlife from around the world. There is a lot going on at Busch Gardens Tampa Bay. For the Florida roller coaster lover, the choices include SheiKra, the tallest dive coaster in the world and at 200 feet, Florida's tallest roller coaster; Gwazi, the Southeast's largest and fastest double wooden coaster; Montu, one of the tallest and longest inverted roller coasters in the world; and the park's brand new magnet-propelled, "launch" coaster, Cheetah Hunt. This 4,429-foot coaster, inspired by the legendary speed of the Cheetah, climbs high above the African landscape, races down along the ground and through a rocky gorge, all the while using burst of acceleration to propel awestruck riders.
+Busch Gardens is the ultimate family adventure. It offers a wide range of attractions that encourage guests to delve into culture and wildlife from around the world. There is a lot going on at Busch Gardens Tampa Bay. For the Florida roller coaster lover, the choices include SheiKra, the tallest dive coaster in the world and at 200 feet, Florida's tallest roller coaster; Gwazi, the Southeast's largest and fastest double wooden coaster; Montu, one of the tallest and longest inverted roller coasters in the world; and the park's brand new magnet-propelled, "launch" coaster, Cheetah Hunt. This 4,429-foot coaster, inspired by the legendary speed of the Cheetah, climbs high above the African landscape, races down along the ground and through a rocky gorge, all the while using burst of acceleration to propel awestruck riders.
 Rides and Rollercoasters
 attractions_photos/amusement/busch.jpeg attractions_photos/amusement/busch2.jpeg
 Tampa
