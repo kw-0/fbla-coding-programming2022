@@ -1,11 +1,11 @@
-# FBLA Codign and Programming 2022 by Kylen Williams
+# FBLA Coding and Programming 2022 by Kylen Williams
 My coding and programming project for FBLA, 2022.
 
 ## About
-This is my FBLA coding and programming project for the 2022 school year. It reccomends any of 50 attractions  based on various search attribues and selection of type/style of attraction.
+This is my FBLA coding and programming project for the 2022 school year. It recommends any of 50 attractions based on various search attributes and selection of type/style of attraction.
 
-##  To Run
-1. Yo'llu need to have an installation of [Python](https://www.python.org/downloads/) and [Pygame](https://www.pygame.org/wiki/GettingStarted). 
+## To Run
+1. You'll need to have an installation of [Python](https://www.python.org/downloads/) and [Pygame](https://www.pygame.org/wiki/GettingStarted). 
 2. To download all the code from this repository, click the green button that says "Code" near the upper right side of the screen and click "Download Zip". 
 3. Open the folder, and simply run the code in your preferred IDE!
 
