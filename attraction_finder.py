@@ -10,7 +10,7 @@ light_red = (237, 100, 100)
 black = (19, 19, 19)
 grey = (200, 200, 200)
 
-def button(window, text, button_color, rollover_change_color, location, width=225, height=200, text_location=None, font="Corbel", text_color=black, text_size=45):
+def button(window, text, button_color, rollover_change_color, location, width=225, height=200, text_location=None, font="Montserrat", text_color=black, text_size=45):
     # window is the window it opens, must be a  pygame.display.set_mode(size) window
     mouse_pos = pygame.mouse.get_pos()
     x, y = location
@@ -53,7 +53,7 @@ def attraction_type(type, screen, screen_width, screen_height, run_type, bg_colo
             if event.type == pygame.QUIT:
                 pygame.quit()
 
-            title = pygame.font.SysFont("Corbel", 150).render(type, True, black)
+            title = pygame.font.SysFont("Montserrat", 150).render(type, True, black)
 
             if search_type is not None and search_attribute is not None:
                 search_type_list = ["info", "type", 0, "city", "age_range", "rating", "size"]
@@ -173,7 +173,7 @@ class attraction:
             pygame.draw.rect(self.window, self.color, rectangle, border_radius=20)
         
         # types the title with a line break at 2 words because it is a bigger font
-        title_font = pygame.font.SysFont("Corbel", 40)
+        title_font = pygame.font.SysFont("Montserrat", 40)
         title = self.name.split()
         for i in range(len(title)):
             if not((i*2)+2 > len(title)):
@@ -185,7 +185,7 @@ class attraction:
 
         # types ONE sentence of the info
         # puts the first sentence into a list with 5 words per space in list
-        info_font = pygame.font.SysFont("Corbel",  25)
+        info_font = pygame.font.SysFont("Montserrat",  25)
         raw_info_text = self.info_list[0]
         info_sentence = raw_info_text.split(".")[0].split()
         for i in range(len(info_sentence)):
@@ -198,7 +198,7 @@ class attraction:
         
         # shows the type on the widget
         attraction_type = self.info_list[1]
-        attraction_type_font = pygame.font.SysFont("Corbel",  20)
+        attraction_type_font = pygame.font.SysFont("Montserrat",  20)
 
         attraction_type = attraction_type_font.render(f"Type: {attraction_type}", True, black)
         self.window.blit(attraction_type, attraction_type.get_rect(center=((self.position[0] + (self.size[0] / 2), (self.position[1] + (self.size[1] / 2))+60))))
@@ -210,13 +210,13 @@ class attraction:
         img_offset = 20
         aspect_ratio = image.get_height()/image.get_width() # this calculates what scale factor is needed to have exactly the offset distance at both sides of the image
         width = self.size[0] - 2*img_offset
-        height = aspect_ratio * width 
+        height = round(aspect_ratio * width)
         image = pygame.transform.scale(image, (width, height))
 
         self.window.blit(image, (self.position[0]+img_offset, self.position[1]+130))
 
         # types the address on the widget
-        info_font = pygame.font.SysFont("Corbel",  20)
+        info_font = pygame.font.SysFont("Montserrat",  20)
 
         address = self.info_list[3]
         address = info_font.render(f"Address: {address}", True, black)
@@ -258,12 +258,12 @@ class attraction:
                 pygame.draw.rect(self.window, light_red, rectangle, border_radius=30)
 
                 # title
-                title = pygame.font.SysFont("Corbel", 100)
+                title = pygame.font.SysFont("Montserrat", 100)
                 title = title.render(self.name, True, black)
                 screen.blit(title, title.get_rect(center=(screen_height / 2, (screen_width / 2)-350)))
 
                 # information text
-                info_font = pygame.font.SysFont("Corbel",  28)
+                info_font = pygame.font.SysFont("Montserrat",  28)
                 raw_info_text = self.info_list[0]
                 info_sentence = raw_info_text.split()
 
@@ -293,7 +293,7 @@ class attraction:
                     aspect_ratio = image.get_height()/image.get_width()
                     width = 400
                     # widths.append(width)
-                    img_height = aspect_ratio * width # this calculates what scale factor is needed to have exactly the offset distance at both sides of the image
+                    img_height = round(aspect_ratio * width) # this calculates what scale factor is needed to have exactly the offset distance at both sides of the image
                     image = pygame.transform.scale(image, (width,img_height))
 
                     img_y = info_y-30
@@ -304,12 +304,12 @@ class attraction:
                         self.window.blit(image, ((info_x + info_width + img_offset)+width+i*20, img_y))
 
                 # information text
-                # info_font = pygame.font.SysFont("Corbel",  25)
+                # info_font = pygame.font.SysFont("Montserrat",  25)
                 # raw_info_text = self.info_list[0]
                 # info_sentence = raw_info_text.split()
 
                 # extra_info
-                extra_info_font = pygame.font.SysFont("Corbel",  50)
+                extra_info_font = pygame.font.SysFont("Montserrat",  50)
 
                 extra_info_x = (info_x + info_width + img_offset)
                 extra_info_y = (img_y+img_height+60)
@@ -370,7 +370,7 @@ def search_screen(category, search_type, attractions_list, *search_items):
                 if event.type == pygame.QUIT:
                     pygame.quit()
 
-                title = pygame.font.SysFont("Corbel", 150).render("Select a Category!", True, black)
+                title = pygame.font.SysFont("Montserrat", 125).render("Select a Category!", True, black)
                 screen.blit(title, title.get_rect(center=(screen_height / 2, (screen_width / 2) - 350)))
 
         
@@ -393,8 +393,10 @@ def search_screen(category, search_type, attractions_list, *search_items):
         return type_to_search
 
 
-screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
+screen = pygame.display.set_mode((1440, 900))
 screen_height, screen_width = screen.get_size()
+
+pygame.display.set_caption("Florida Attractions")
 
 run_main = True
 run_search = False
@@ -410,9 +412,9 @@ while True:
                 pygame.quit()
 
 
-            title = pygame.font.SysFont("Corbel", 180).render("Attractions in Florida!", True, black)
+            title = pygame.font.SysFont("Montserrat", 160).render("Attractions in Florida!", True, black)
             screen.blit(title, title.get_rect(center=(screen_height / 2, (screen_width / 2) - 300)))
-            bottom_title = pygame.font.SysFont("Corbel", 180).render("Click One to Begin", True, black)
+            bottom_title = pygame.font.SysFont("Montserrat", 160).render("Click One to Begin", True, black)
             screen.blit(bottom_title, bottom_title.get_rect(center=(screen_height / 2, (screen_width / 2) + 300)))
 
             button_origin = (53, 330)
@@ -527,7 +529,7 @@ while True:
             if event.type == pygame.QUIT:
                 pygame.quit()
 
-            title = pygame.font.SysFont("Corbel", 150).render("Search by:", True, black)
+            title = pygame.font.SysFont("Montserrat", 150).render("Search by:", True, black)
             screen.blit(title, title.get_rect(center=(screen_height / 2, (screen_width / 2) - 350)))
             button_origin = (210, 350)
             button_spacing = 53
